@@ -38,6 +38,7 @@ Specialized agents for different task types.
 | [`architect`](agent/architect.md) | Plans architecture and major changes |
 | [`critique`](agent/critique.md) | Adversarial critic for generating insights through disagreement |
 | [`delegate`](agent/delegate.md) | Orchestrates long-horizon projects via work packages and subagents |
+| [`distill`](agent/distill.md) | Distills information by interviewing the user to extract core insights |
 | [`diverge`](agent/diverge.md) | Thinks outside the box to find new directions or alternative solutions |
 | [`document`](agent/document.md) | Technical writer for documentation |
 | [`qa`](agent/qa.md) | End-to-end testing using a browser |
